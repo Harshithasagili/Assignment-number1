@@ -7,7 +7,8 @@
 #include <mongocxx/client.hpp>
 #include <mongocxx/instance.hpp>
 #include <mongocxx/uri.hpp>
-
+class Car;
+class Database;
 
 class User {
     public:
